@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on projects
+- 🔭 I’m currently working as an SDE intern in Navcara LLC
 - 🌱 I’m currently learning deep learning and cv
 - 👯 I’m looking to collaborate on DL/CV
 - 📫 How to reach me: https://www.linkedin.com/in/anirudh-soni-2542b8b8/
