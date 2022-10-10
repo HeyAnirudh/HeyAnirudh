@@ -12,6 +12,9 @@
 
 ## Research Paper
 - [Augmented reality for education](https://www.ijert.org/edu-ar-integrating-and-optimizing-education-with-augmented-reality)
+
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=HeyAnirudh)
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://www.linkedin.com/in/heyanirudh/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 <a href="https://www.hackerrank.com/18911A0201" target="blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>
